@@ -36,7 +36,7 @@
             "type": "securestring",
             "defaultValue": "",
             "metadata": {
-                "description": "Enter the password for team cymru scout account. Required if Authentication Type is Basic Auth"
+                "description": "Enter the password for Team Cymru Scout account. Required if Authentication Type is Basic Auth"
             }
         },
         "APIKey": {
