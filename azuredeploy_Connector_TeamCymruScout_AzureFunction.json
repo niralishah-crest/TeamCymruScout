@@ -312,7 +312,7 @@
                         "LogLevel": "[parameters('LogLevel')]",
                         "Schedule": "[trim(parameters('Schedule'))]",
                         "AccountUsageSchedule": "[trim(parameters('AccountUsageSchedule'))]",
-                        "WEBSITE_RUN_FROM_PACKAGE": "https://aka.ms/sentinel-TeamCymruScout-functionapp"
+                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/niralishah-crest/TeamCymruScout/raw/refs/heads/main/TeamCymruScout.zip"
                     }
                 }
             ]
